@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">NY Times Most Popular</string>
+
+    <string name="please_click_back_again_to_exit">Please click BACK again to exit</string>
+    <string name="no_connection">No internet Connection</string>
+    <string name="turn_on_connection">Please turn on internet connection to continue</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="alert">Alert</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="internal_server_error">Internal Server error</string>
+    <string name="page_not_found">Page not found</string>
+
+
+</resources>
